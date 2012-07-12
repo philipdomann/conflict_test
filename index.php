@@ -10,7 +10,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "Hallo Conflict";
+        echo "conflict auslösen";
         ?>
     </body>
 </html>
