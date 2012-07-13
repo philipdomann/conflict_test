@@ -10,7 +10,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "Erstens";
+        echo "Zweitens";
         ?>
     </body>
 </html>
